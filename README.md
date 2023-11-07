@@ -1,5 +1,5 @@
-[Discord - dmitrydeki]
 <!-- # ⭕ Tic-Tac-Toe -->
+[Discord - dmitrydeki]
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
